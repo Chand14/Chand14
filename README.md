@@ -20,7 +20,7 @@ Engineering Manager at **IKEA**, leading the **Core Engineering** team within In
 
 ---
 
-### &#x1F6E0; What we build
+### &#x1F6E0; What our team supports
 
 <table>
   <tr>
