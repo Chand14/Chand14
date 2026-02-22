@@ -16,11 +16,7 @@
 
 ### `whoami`
 
-I'm an Engineering Manager at **IKEA**, leading the **Core Engineering** team within Ingka Group Digital. We own the internal developer platform &mdash; the foundational capabilities that every engineering team depends on: source control, artifact management, secrets, CI/CD infrastructure, and developer tooling.
-
-I come from **systems engineering**, not computer science. My background is in designing and integrating complex technical systems &mdash; and that's exactly the lens I bring to platform engineering. I think in systems, dependencies, and feedback loops.
-
-I'm also **learning to code**, and I'm not shy about it. AI-assisted development has opened a door for people like me to go from idea to working software. I use [OpenCode](https://opencode.ai) and its GSD workflow to build real things while learning. Some call it vibecoding &mdash; I call it the future.
+Engineering Manager at **IKEA**, leading the **Core Engineering** team within Ingka Group Digital. Systems engineering background. Currently learning to code with the help of AI &mdash; some call it vibecoding, I call it the future.
 
 ---
 
