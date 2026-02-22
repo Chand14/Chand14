@@ -12,15 +12,15 @@ Engineering Manager at **IKEA**, leading the **Core Engineering** team within In
 
 ### &#x1F6E0; What our team supports
 
-<table>
-  <tr>
-    <td align="center" width="140"><strong>Source Control</strong><br/><sub>Repositories, CI/CD, code security</sub></td>
-    <td align="center" width="140"><strong>Artifacts</strong><br/><sub>Package management across regions</sub></td>
-    <td align="center" width="140"><strong>Secrets</strong><br/><sub>Secrets &amp; credential management</sub></td>
-    <td align="center" width="140"><strong>Cloud CI</strong><br/><sub>Build &amp; deployment pipelines</sub></td>
-    <td align="center" width="140"><strong>Developer Tooling</strong><br/><sub>IDEs, containers, productivity</sub></td>
-  </tr>
-</table>
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FFDB00?style=for-the-badge&logoColor=000000&labelColor=FFDB00)
+![Engineering Metrics](https://img.shields.io/badge/Engineering_Metrics-FFDB00?style=for-the-badge&logoColor=000000&labelColor=FFDB00)
+![Agentic AI Development](https://img.shields.io/badge/Agentic_AI_Development-FFDB00?style=for-the-badge&logoColor=000000&labelColor=FFDB00)
+![Secrets Management](https://img.shields.io/badge/Secrets_Management-FFDB00?style=for-the-badge&logoColor=000000&labelColor=FFDB00)
+
+![Source Control](https://img.shields.io/badge/Source_Control-0058A3?style=for-the-badge&labelColor=0058A3)
+![Supply Chain Security](https://img.shields.io/badge/Supply_Chain_Security-0058A3?style=for-the-badge&labelColor=0058A3)
+![Artifact Management](https://img.shields.io/badge/Artifact_Management-0058A3?style=for-the-badge&labelColor=0058A3)
+![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-0058A3?style=for-the-badge&labelColor=0058A3)
 
 ---
 
