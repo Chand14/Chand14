@@ -14,11 +14,11 @@ Engineering Manager at **IKEA**, leading the **Core Engineering** team within In
 
 <table>
   <tr>
-    <td align="center" width="140"><strong>GitHub</strong><br/><sub>Enterprise Cloud, Actions, Copilot, GHAS</sub></td>
-    <td align="center" width="140"><strong>JFrog</strong><br/><sub>Artifactory across EU &amp; CN</sub></td>
-    <td align="center" width="140"><strong>Vault</strong><br/><sub>HashiCorp secrets management</sub></td>
-    <td align="center" width="140"><strong>Cloud CI</strong><br/><sub>GCP, Alicloud, AWS pipelines</sub></td>
-    <td align="center" width="140"><strong>Tooling</strong><br/><sub>VS Code, JetBrains, Docker</sub></td>
+    <td align="center" width="140"><strong>Source Control</strong><br/><sub>Repositories, CI/CD, code security</sub></td>
+    <td align="center" width="140"><strong>Artifacts</strong><br/><sub>Package management across regions</sub></td>
+    <td align="center" width="140"><strong>Secrets</strong><br/><sub>Secrets &amp; credential management</sub></td>
+    <td align="center" width="140"><strong>Cloud CI</strong><br/><sub>Build &amp; deployment pipelines</sub></td>
+    <td align="center" width="140"><strong>Developer Tooling</strong><br/><sub>IDEs, containers, productivity</sub></td>
   </tr>
 </table>
 
