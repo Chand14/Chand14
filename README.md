@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Christofer Anderberg — Engineering Manager at IKEA" width="100%"/>
+  <img src="banner.png" alt="Christofer Anderberg — Engineering Manager at IKEA" width="100%"/>
 </p>
 
 <p align="center">
@@ -35,8 +35,6 @@ I'm also **learning to code**, and I'm not shy about it. AI-assisted development
     <td align="center" width="140"><strong>Tooling</strong><br/><sub>VS Code, JetBrains, Docker</sub></td>
   </tr>
 </table>
-
-<sub>12 engineers &middot; 2 squads &middot; 8 capabilities &middot; 1,800+ developers served</sub>
 
 ---
 
