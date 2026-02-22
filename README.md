@@ -1,34 +1,64 @@
-# Christofer Anderberg
+<p align="center">
+  <img src="banner.svg" alt="Christofer Anderberg — Engineering Manager at IKEA" width="100%"/>
+</p>
 
-Engineering Manager at **IKEA** (Ingka Group Digital), leading the Core Engineering team. We build platform capabilities and developer tooling for 1,800+ engineers across the organization.
+<p align="center">
+  <strong>Building the platform that 1,800+ IKEA engineers build on.</strong>
+</p>
 
----
-
-### Background
-
-I come from systems engineering, not computer science. My career has been spent designing, integrating, and improving complex technical systems. That perspective now shapes how I think about developer platforms, infrastructure, and the tools that help engineering teams do their best work.
-
-I'm relatively new to programming. I'm learning by doing, and I'm genuinely excited about what AI-assisted development makes possible for people like me.
-
-### What I'm working on
-
-- **Core Engineering at IKEA** &mdash; internal developer platform serving 1,800+ developers. Our team manages capabilities across GitHub, JFrog Artifactory, HashiCorp Vault, cloud infrastructure, and developer tooling.
-
-- **AI-assisted development** &mdash; exploring what it means to build software with AI coding agents. I use [OpenCode](https://opencode.ai) and its GSD workflow to go from idea to working code. Some call it vibecoding. I call it the future of how non-traditional developers contribute to software.
-
-- **Dashboards and visibility** &mdash; building tools that give engineering leadership clear insight into platform costs, usage, and trends across our capabilities.
-
-### Interests
-
-- AI-assisted development and coding agents
-- Platform engineering and developer experience
-- Making engineering organizations more effective
-- The intersection of systems thinking and software
-
-### About this profile
-
-Most of the repositories here are things I've built while learning. They reflect a journey, not a destination. I believe the best way to understand something is to build with it, and that's what I'm doing.
+<p align="center">
+  <a href="https://www.linkedin.com/in/christofer-anderberg/">LinkedIn</a> &middot;
+  Helsingborg, Sweden &middot;
+  Ingka Group Digital
+</p>
 
 ---
 
-<sub>Helsingborg, Sweden &middot; IKEA / Ingka Group Digital</sub>
+### `whoami`
+
+I'm an Engineering Manager at **IKEA**, leading the **Core Engineering** team within Ingka Group Digital. We own the internal developer platform &mdash; the foundational capabilities that every engineering team depends on: source control, artifact management, secrets, CI/CD infrastructure, and developer tooling.
+
+I come from **systems engineering**, not computer science. My background is in designing and integrating complex technical systems &mdash; and that's exactly the lens I bring to platform engineering. I think in systems, dependencies, and feedback loops.
+
+I'm also **learning to code**, and I'm not shy about it. AI-assisted development has opened a door for people like me to go from idea to working software. I use [OpenCode](https://opencode.ai) and its GSD workflow to build real things while learning. Some call it vibecoding &mdash; I call it the future.
+
+---
+
+### &#x1F6E0; What we build
+
+<table>
+  <tr>
+    <td align="center" width="140"><strong>GitHub</strong><br/><sub>Enterprise Cloud, Actions, Copilot, GHAS</sub></td>
+    <td align="center" width="140"><strong>JFrog</strong><br/><sub>Artifactory across EU &amp; CN</sub></td>
+    <td align="center" width="140"><strong>Vault</strong><br/><sub>HashiCorp secrets management</sub></td>
+    <td align="center" width="140"><strong>Cloud CI</strong><br/><sub>GCP, Alicloud, AWS pipelines</sub></td>
+    <td align="center" width="140"><strong>Tooling</strong><br/><sub>VS Code, JetBrains, Docker</sub></td>
+  </tr>
+</table>
+
+<sub>12 engineers &middot; 2 squads &middot; 8 capabilities &middot; 1,800+ developers served</sub>
+
+---
+
+### &#x1F4A1; What I'm interested in
+
+- **AI-assisted development** &mdash; coding agents, prompt-driven workflows, and what it means for non-traditional developers
+- **Platform engineering** &mdash; building internal platforms that make other teams faster
+- **Developer experience** &mdash; reducing friction, improving visibility, making the right thing the easy thing
+- **Systems thinking** &mdash; applying systems engineering principles to software organizations
+
+---
+
+### &#x1F331; Currently building
+
+- An internal **metrics dashboard** that gives engineering leadership clear insight into platform costs, usage, and trends across all our capabilities
+- This GitHub profile &mdash; with the help of AI, naturally
+
+---
+
+<p align="center">
+  <sub>Most repos here are things I've built while learning. They reflect a journey, not a destination.</sub>
+</p>
+<p align="center">
+  <sub><strong>IKEA</strong> / Ingka Group Digital &middot; Core Engineering &middot; Helsingborg, Sweden</sub>
+</p>

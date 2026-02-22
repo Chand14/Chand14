@@ -1,0 +1,29 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="200">
+      <stop offset="0%" stop-color="#003399"/>
+      <stop offset="100%" stop-color="#0058A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="12" fill="url(#bg)"/>
+
+  <!-- Yellow accent bar at top -->
+  <rect y="0" width="800" height="4" rx="2" fill="#FFDB00"/>
+
+  <!-- Left: Name and title -->
+  <text x="48" y="72" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Christofer Anderberg</text>
+  <text x="48" y="106" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" fill="#FFDB00" font-weight="500">Engineering Manager</text>
+  <text x="48" y="134" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)">Core Engineering &middot; Ingka Group Digital</text>
+
+  <!-- Right: Location -->
+  <text x="752" y="134" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" text-anchor="end">Helsingborg, Sweden</text>
+
+  <!-- Bottom yellow accent -->
+  <rect y="186" width="140" height="3" rx="1.5" fill="#FFDB00" x="48"/>
+
+  <!-- IKEA wordmark hint - small, subtle -->
+  <text x="752" y="72" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="28" font-weight="800" fill="#FFDB00" text-anchor="end" letter-spacing="2">IKEA</text>
+  <text x="752" y="93" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="rgba(255,255,255,0.4)" text-anchor="end" letter-spacing="1">INGKA GROUP DIGITAL</text>
+</svg>
