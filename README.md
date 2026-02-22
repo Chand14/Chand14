@@ -2,16 +2,6 @@
   <img src="banner.png" alt="Christofer Anderberg — Engineering Manager at IKEA" width="100%"/>
 </p>
 
-<p align="center">
-  <strong>Building the platform that 1,800+ IKEA engineers build on.</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christofer-anderberg/">LinkedIn</a> &middot;
-  Helsingborg, Sweden &middot;
-  Ingka Group Digital
-</p>
-
 ---
 
 ### `whoami`
